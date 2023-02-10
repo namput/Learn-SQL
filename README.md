@@ -93,8 +93,8 @@ You may run into an error if you try to update the release year by using `releas
 
 ### 8. Insert a record for your favorite Band and one of their Albums
 [Solution](solutions/8.sql)
-
-If you performed this correctly you should be able to now see that band and album in your tables.
+รูปโค้ด
+รูปผลลัพธ์
 
 ### 9. Delete the Band and Album you added in #8
 [Solution](solutions/9.sql)
