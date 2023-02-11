@@ -5,6 +5,7 @@ Aekkachai Chatpanglurlurt 6509035199 <br>
 Chumphon Jangphon 6509035181 <br>
 Kunanon Sukjaruen 6509035207  <br>
 Ratchapol Marmongkol 6509035033 <br>
+Worrapon Thongmook 6509035025 <br>
 
 
 ## Exercises
@@ -151,6 +152,8 @@ Return the album name as `Album`, the album release year as `Release Year`, and 
 | Break the Silence           | 2011         | 6.15     | 
 | Tribe of Force              | 2010         | 8.38333  | 
 
+![11Aek](https://user-images.githubusercontent.com/94230186/218236306-f43d8299-d0e3-42d2-9883-7d2b6e17ba1b.png)
+
 ### 12. Get the number of Songs for each Band
 [Solution](solutions/12.sql)
 
@@ -166,3 +169,5 @@ Return the band name as `Band`, the number of songs as `Number of Songs`.
 | Within Temptation | 30              | 
 | Death             | 27              | 
 | Van Canto         | 32              | 
+
+![12Aek](https://user-images.githubusercontent.com/94230186/218236308-92f81733-7ee6-4877-9265-e84ba1f7a5ab.png)
