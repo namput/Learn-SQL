@@ -7,6 +7,7 @@ Kunanon Sukjaruen 6509035207  <br>
 Ratchapol Marmongkol 6509035033 <br>
 Worrapon Thongmook 6509035025 <br>
 
+### SQL scipts files อยู่ในโฟลเดอร์ Activity4
 
 ## Exercises
 ### 1. Create a Songs Table
